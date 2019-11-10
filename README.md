@@ -1,6 +1,6 @@
 # 如何用 Hooks 来实现 React Class Component 写法？
 
-Hooks 的 API 可以参照 React 官网。本文主要是结合 Demo 详细讲解如何用 Hooks 来实现 React Class Component 写法，让大家更深的理解 Hooks 的机制并且更快的入门。** 注意：Rax 的写法和 React 是一致的，本文 Demo 基于 React 实现 ** 
+Hooks 的 API 可以参照 React 官网。本文主要是结合 Demo 详细讲解如何用 Hooks 来实现 React Class Component 写法，让大家更深的理解 Hooks 的机制并且更快的入门。** 注意：Rax 的写法和 React 是一致的，本文 Demo 基于 React 实现 **，[查看 Demo 完整版](https://github.com/ibzjs/react-hooks-demo)
 
 本文内容包括如下：
 - 一、在 Hooks 中如何实现 Class Component 生命周期
@@ -369,7 +369,6 @@ export default function Parent() {
   );
 }
 ```
-
 
 
 
