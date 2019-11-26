@@ -1,0 +1,19 @@
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: green;
+  color: white;
+}
+
+.msg1 {
+  position: relative;
+  left: 200px;
+  border: 1px solid red;
+}
+
+.msg2 {
+  position: relative;
+  left: 300px;
+  border: 1px solid red;
+}
